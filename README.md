@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook named Final.ipynb, which focuses on 
 
 **Dataset**
 
-The IDS 2018 dataset is a comprehensive dataset designed for evaluating intrusion detection systems. It includes diverse types of network traffic, including normal behavior, as well as various attack scenarios (e.g., DoS, DDoS, brute force, infiltration).
+The IDS 2018 dataset is a comprehensive dataset designed for evaluating intrusion detection systems. It includes diverse types of network traffic, including normal behavior, as well as various attack scenarios (e.g., DoS, DDoS, brute force, infiltration). In this project, our team chose 02-15-2018.csv and 03-02-2018.csv.
 
 For more information about the dataset, visit the official website: [IDS 2018 dataset](https://www.unb.ca/cic/datasets/ids-2018.html).
 
